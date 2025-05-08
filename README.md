@@ -9,6 +9,13 @@
 - **Asignatura:** Programación Interactiva
 - **Semestre:** 2021-I
 
+## 🧑‍💻 Autores
+
+| Nombre                  | Código    |
+| ----------------------- | --------- |
+| Carlos Andrés Cáceres   | 202126639 |
+| Diego Fernando Victoria | 201941366 |
+
 ### 📝 Descripción
 
 Este repositorio contiene ejercicios y trabajos desarrollados para el curso de Programación Interactiva de la Universidad del Valle. Los proyectos están enfocados en el desarrollo de aplicaciones con interfaces gráficas utilizando Java Swing, abordando problemas prácticos como sistemas de registro, cálculos matemáticos y gestión de información médica.
